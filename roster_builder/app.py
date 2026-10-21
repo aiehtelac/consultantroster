@@ -186,10 +186,10 @@ You can edit staff's short names, groups, and target calls here.
 | **E** | No | None |
 
 1. You can edit a staff's short name, group and eligibility to do CA calls. To change the target number of calls to one different from the rest of the group, key in a new minimum/maximum total number of calls
-2. Check the **Target* column or new *min/max* columns against *Free weekends* and *Free CA weeks*, which come from the leave projection.
+2. Check the *Target* column or new *min/max* columns against *Free weekends* and *Free CA weeks*, which come from the leave projection.
 3. Read the *Capacity* table below: every row needs ✅. Then press **Quick check**, which asks the
    solver whether a roster exists, and fix any red messages.
-4. *Download updated targets* to keep your changes for next year. Personal ranges are saved in the
+4. Download updated targets to keep your changes for next year. Personal ranges are saved in the
    *Target calls* column; anyone on their group's range is left blank.
 """
     )
