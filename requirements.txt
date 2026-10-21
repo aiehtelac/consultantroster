@@ -1,0 +1,7 @@
+# Run with Python 3.13: OR-Tools 9.15 on Python 3.14 hangs when solving with
+# more than one thread (seen on macOS, Oct 2026).
+ortools>=9.14
+openpyxl
+pandas
+streamlit
+certifi

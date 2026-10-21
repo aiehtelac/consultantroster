@@ -1,0 +1,9 @@
+# Allow-list: only the code and the blank template are tracked.
+# Every other file here (leave projections, staff lists, rosters) holds staff
+# data and must stay local.
+*
+!.gitignore
+!requirements.txt
+!Consultant Roster Empty.xlsx
+!roster_builder/
+!roster_builder/*.py
